@@ -1,6 +1,6 @@
 //************************************
 // Program by Nicolas Salomon
-// Program that ____
+// Program that creates a 3D array and populates it with random integers
 // 9/25/17
 //************************************
 
